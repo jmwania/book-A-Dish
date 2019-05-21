@@ -1,23 +1,29 @@
 {
-  "name": "Meals",
+  "name": "jmwania",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "c",
+  "main": "c",
   "directories": {
     "test": "tests"
   },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d UI"
+    "deploy": "gh-pages meals"
   },
   "repository": {
     "type": "git",
-    "url": https://github.com/jmwania/book-A-Dish.git
+    "url": "git+https://github.com/jmwania/book_a_dish.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "c"
+  ],
+  "author": "jmwania",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jmwania/book-A-Dish/issues"
+    "url": "https://github.com/jmwania/book_a_dish/issues"
   },
-  "homepage": "https://github.com/jmwania/book-A-Dish"
+  "homepage": "https://github.com/jmwania/book_a_dish"
 }
