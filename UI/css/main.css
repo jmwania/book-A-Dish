@@ -565,6 +565,8 @@ body {
   
     .footer-section .footer-company-motto{
       font-size: 12px;
+      text-decoration-color: #34495e;
+      text-emphasis-color: rgba(27, 17, 17, 0.12);
     }
   
     .footer-section .footer-company-name{
@@ -591,4 +593,16 @@ body {
       position: static; 
     } 
   }
-  
+  .contact {
+    padding: 3em;
+    word-spacing:0cm;
+    position: inherit;
+    text-align-last: auto;
+    line-break: inherit;
+    background-color: #bdc3c7;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: rgb(red, rgb(24, 121, 24), blue);
+    
+  }
+ 
