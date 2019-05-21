@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages meals"
+    "deploy": "gh-pages -d meals"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,9 @@
   ],
   "author": "jmwania",
   "license": "ISC",
+  "homepage": "https://jmwania.github.io/book_A_Dish"
   "bugs": {
     "url": "https://github.com/jmwania/book_a_dish/issues"
   },
-  "homepage": "https://github.com/jmwania/book_A_Dish"
+  
 }
