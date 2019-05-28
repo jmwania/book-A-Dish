@@ -1,0 +1,16 @@
+{
+  "name": "Final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d UI"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jmwania.github.io/book-A-Dish"
+  "dependencies": {
+    "gh-pages": "1.2.0"
+  },
+ }
